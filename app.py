@@ -5,7 +5,7 @@ app=Flask(__name__)
 to search in the same dir as app.py use 
 Flask(__name__,template_folder=".")
 '''
-
+#add by 
 @app.route("/")
 def hello_world():
     return render_template("home.html")

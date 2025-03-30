@@ -1,2 +1,2 @@
 # my_web
-practicing flask 
+practicing flask and git
